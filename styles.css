@@ -1,0 +1,46 @@
+body {
+  background-color: #1a1f2e;
+  font-family: Arial, sans-serif;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+  margin: 0;
+}
+
+.tarjeta {
+  background-color: #242938;
+  border-radius: 10px;
+  padding: 30px;
+  text-align: center;
+  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.4);
+}
+
+.foto {
+  width: 120px;
+  height: 120px;
+  border-radius: 50%;
+  border: 3px solid #4a6fa5;
+}
+
+h1 {
+  margin: 15px 0 5px;
+  color: #d0d8e8;
+}
+
+p {
+  color: #7a8aa0;
+  margin-bottom: 20px;
+}
+
+a {
+  background-color: #2e4a7a;
+  color: #d0d8e8;
+  padding: 10px 20px;
+  border-radius: 6px;
+  text-decoration: none;
+}
+
+a:hover {
+  background-color: #4a6fa5;
+}
