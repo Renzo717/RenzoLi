@@ -1,0 +1,3 @@
+Anotaciones HTML:
+Border Radius es para hacer circular un logo
+En los titulos de usar h1 con clases ya que las propiedades son mejores que el span
