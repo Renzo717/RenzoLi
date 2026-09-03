@@ -1,0 +1,67 @@
+﻿Análisis de la Evolución de apple.com
+Era del Minimalismo (2007–2012)
+Integrantes del Grupo
+* Raymundo Renzo 
+* Limanovsky Renzo
+* Asano Takashi
+* Joaquin Gonzales
+* Franco Garcia
+* Roberto Cohene
+Período Analizado
+2007–2012
+Capturas de Pantalla
+Año
+	Captura
+	Descripción
+	2007
+	
+
+
+
+  
+
+
+
+	Rediseño radical con el lanzamiento del iPhone; el producto domina el centro de la página
+	2008
+	  
+
+	MacBook Air presentado con una imagen a página completa y muy poco texto
+	2010
+	  
+
+	Lanzamiento del iPad; fondo blanco absoluto y tipografía fina
+	Nota: reemplaza estas referencias por tus propias capturas reales tomadas desde Wayback Machine, insertadas como imágenes en este documento.
+Contexto Histórico
+Entre 2007 y 2012, Apple pasó de ser una empresa en recuperación a convertirse en la compañía más valiosa del mundo. El lanzamiento del iPhone en enero de 2007 marcó un punto de inflexión no solo para la industria móvil, sino también para el propio sitio web de Apple, que abandonó por completo la estética de "banner y navegación" de la década anterior. Le siguieron el MacBook Air (2008), el iPad (2010) y sucesivas generaciones de iPhone, cada una presentada en apple.com con la misma fórmula: una imagen enorme del producto, muy poco texto y abundante espacio en blanco. En el diseño web en general, esta época coincide con el auge del "hero image" a pantalla completa y el abandono progresivo del exceso de elementos decorativos heredado de la Web 2.0 (gradientes, reflejos, texturas). Apple no solo siguió esta tendencia, sino que la lideró, alineando el lenguaje visual de su web con el lenguaje visual de sus propios productos: superficies limpias, formas simples, ausencia de ornamento.
+Análisis de Principios de Diseño
+1. Jerarquía Visual
+¿Qué elemento captaba primero la atención?
+Casi siempre una única fotografía o render del producto, ocupando entre el 60% y el 90% del viewport. No había competencia visual: el ojo iba directo al objeto.
+¿Cómo se organizaba la información?
+De forma vertical y secuencial: imagen del producto → nombre → una frase corta (a veces un solo eslogan) → llamada a la acción ("Learn more", "Buy now"). La navegación superior se redujo a una fila fina de texto, casi invisible frente al producto.
+¿Qué competía por la atención del usuario?
+Prácticamente nada. A diferencia de la Época 2, ya no había banners secundarios, promociones laterales ni bloques de texto compitiendo por espacio. El diseño eliminaba deliberadamente cualquier distracción.
+2. Minimalismo y Espacio en Blanco
+¿Se usaba espacio en blanco de forma intencionada?
+Sí, de manera muy marcada. El espacio en blanco (o negro, en algunas páginas de producto) dejó de ser "espacio vacío" para convertirse en un elemento de diseño en sí mismo, usado para dar aire, jerarquía y sensación de lujo.
+¿Qué sensación transmitía el diseño?
+Sofisticación, calma y control. La ausencia de ruido visual comunicaba confianza en el producto: no hacía falta "vender" con texto porque la imagen y el silencio visual ya transmitían exclusividad.
+3. Tipografía
+¿Qué fuentes se usaban?
+Principalmente Myriad Pro/Myriad Set, una tipografía humanista sans-serif que Apple usó de forma consistente en esta era (antes de migrar a Helvetica Neue con el flat design en 2013).
+¿Cómo se manejaban los tamaños y pesos?
+Titulares grandes y de peso ligero o regular (no negrita), contrastando con muy poco texto de cuerpo. El tamaño se usaba como principal recurso jerárquico, más que el color o los adornos.
+4. Consistencia de Marca
+¿Cómo reflejaba el diseño la identidad de Apple?
+El sitio se convirtió en una extensión directa del producto físico: igual que el iPhone o el MacBook Air eliminaban botones y elementos superfluos, la web eliminaba menús, textos largos y decoración. "Simplicidad" dejó de ser solo un valor de producto para ser el valor central de toda la experiencia de marca, incluida la web.
+5. Otros Principios Identificados
+Principio: Fotografía de producto como protagonista absoluto. Apple invirtió en fotografía e iluminación de producto de altísima calidad, casi de estudio, convirtiendo cada página de producto en algo cercano a un afiche publicitario más que a una página web tradicional.
+Principio: Reducción del texto persuasivo a un eslogan. Frases como "The thinnest notebook in the world" (MacBook Air, 2008) muestran cómo el copywriting se redujo a un solo mensaje contundente, en lugar de listas de características.
+Conclusiones y Reflexiones
+Esta era demuestra un cambio de filosofía fundamental: la web de Apple dejó de ser un catálogo (como en la Época 2) para convertirse en una vitrina. El minimalismo no fue solo una decisión estética, sino una estrategia de comunicación: al eliminar todo lo accesorio, cada elemento que permanecía en pantalla ganaba peso y significado. Esta era sienta las bases directas de la Época 4 (Revolución Plana), que llevaría estos mismos principios de simplicidad a un sistema visual más formal y codificado (iconografía plana, tipografía más gruesa), y anticipa la Era 5, donde el minimalismo se volvería aún más radical gracias al scroll cinematográfico y las animaciones.
+Referencias
+* Wayback Machine – apple.com (2007): https://web.archive.org/web/2007*/apple.com
+* Wayback Machine – apple.com (2008): https://web.archive.org/web/2008*/apple.com
+* Wayback Machine – apple.com (2010): https://web.archive.org/web/2010*/apple.com
+* Wayback Machine – apple.com (2012): https://web.archive.org/web/2012*/apple.com
